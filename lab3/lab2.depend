@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1680544099 source:c:\users\oleg\desktop\cg\lab2\main.c
+	<windows.h>
+	<gl/gl.h>
+	"stb-master/stb_easy_font.h"
+	<string.h>
+	"stb-master/stb_image.h"
+
+1674029753 c:\users\oleg\desktop\cg\lab2\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1674029753 c:\users\oleg\desktop\cg\lab2\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1682389782 source:c:\users\oleg\desktop\stud\สร\cg\lab2\main.c
+	<windows.h>
+	<gl/gl.h>
+	"stb-master/stb_easy_font.h"
+	<string.h>
+	"stb-master/stb_image.h"
+
+1674029753 c:\users\oleg\desktop\stud\สร\cg\lab2\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1674029753 c:\users\oleg\desktop\stud\สร\cg\lab2\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
