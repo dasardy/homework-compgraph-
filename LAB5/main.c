@@ -149,7 +149,7 @@ int WINAPI WinMain(HINSTANCE hInstance,
             glLineWidth(3.5);
             drawCoords();
 
-            drawChessboard(10, 0.5, -2.5, -2.5,0);
+            drawChessboard(12, 0.5, -2.5, -2.5,0);
 
             glBegin(GL_TRIANGLES);
 
