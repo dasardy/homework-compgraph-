@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1684326992 source:c:\users\oleg\desktop\stud\สร\lab 6\camera.c
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+
+1684326992 c:\users\oleg\desktop\stud\สร\lab 6\camera.h
+
+1684341318 source:c:\users\oleg\desktop\stud\สร\lab 6\main.c
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+
