@@ -372,7 +372,6 @@ int WINAPI WinMain(HINSTANCE hInstance,
             glPopMatrix();
 
             glTranslatef(0,0,-1);
-            glLineWidth(3.5);
             drawCoords();
             glLineWidth(3.5);
             Init_Material();
