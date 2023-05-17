@@ -26,15 +26,15 @@ void MoveCamera(){
 void drawCoords() {//coordinate axes
 
     glBegin(GL_LINES);
-    // X-axis (red)
+    //X
     glColor3f(1.0f, 1.0f, 0.0f);
     glVertex3f(-100.0f, 0.0f, 0.0f);
     glVertex3f(100.0f, 0.0f, 0.0f);
-    // Y-axis (green)
+    //Y
     glColor3f(0.6f, 0.3f, 0.0f);
     glVertex3f(0.0f, -100.0f, 0.0f);
     glVertex3f(0.0f, 100.0f, 0.0f);
-    // Z-axis (blue)
+    //Z
     glColor3f(1.0f, 0.0f, 1.0f);
     glVertex3f(0.0f, 0.0f, -100.0f);
     glVertex3f(0.0f, 0.0f, 100.0f);
